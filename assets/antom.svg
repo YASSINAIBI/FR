@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="121" viewBox="0 0 168 121">
+  <g id="Groupe_1" data-name="Groupe 1" transform="translate(-707 -172)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(707 172)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="168" height="121" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="120" fill="none"/>
+    </g>
+    <text id="بحال_هاد_اللحضات_معندها_ثمن" data-name="بحال هاد اللحضات
+ معندها ثمن" transform="translate(714 223)" fill="#fff" stroke="#dedede" stroke-width="1" font-size="20" font-family="SitkaSmall-Bold, Sitka Small" font-weight="700"><tspan x="0" y="0"> </tspan><tspan y="0"> </tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI">بحال هاد اللحض</tspan><tspan y="0"></tspan><tspan x="0" y="36"> </tspan><tspan y="36" font-family="SegoeUI-Bold, Segoe UI">معندها</tspan><tspan y="36"> </tspan><tspan y="36" font-family="SegoeUI-Bold, Segoe UI">ثمن</tspan></text>
+  </g>
+</svg>
